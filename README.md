@@ -195,12 +195,6 @@ Key outputs are stored in the `results/` folder:
 
 ---
 
-## Acknowledgements
-
-Raw satellite data was extracted using **Google Earth Engine**. Code was developed with assistance from **Gemini 3.1 Pro**.
-
----
-
 ## Author
 
 **Sophie Rütimann**  
