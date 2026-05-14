@@ -97,8 +97,6 @@ The raw input data is included in this repository under `data/` and can be used 
 - `data/LS_Data/raw_sla/` — Landsat/Sentinel-2 SLA data extracted via Google Earth Engine (`SLA_<glacier_name>.csv`)
 - `data/MODIS_data/raw_fulltime/` — MODIS NIR data extracted via Google Earth Engine (`Glacier_NIR_Terra_SCAF_<glacier_name>.csv`)
 
-
-All intermediate and output data files are generated automatically by running the notebooks in order.
 ---
 
 ## Requirements
